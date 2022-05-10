@@ -1,0 +1,60 @@
+<html style="scroll-behavior:smooth;">
+    <head>
+        <title>CUISINE</title>
+        <meta name="cuisines" content="Biryani,Cakes,Pizza,Tikka,Wings">
+        
+            
+        <style>
+            nav a:hover {
+                background-color: black;
+         
+            }
+            
+            
+
+        </style></head>
+        
+        <body>
+            <header>
+                <nav>
+            <div style="border:5px grey; background-color: grey; padding-top: 10px; padding-bottom: 10px;">
+       
+                <a href="www.google.com" style=" font-weight: bold;color: #ffffff; padding: 10px 10px 10px 10px ; text-decoration: none;">INDEX</a>
+            <a href="www.google.com" style="font-weight: bold;color: #ffffff;  padding: 10px 10px 10px 10px ; text-decoration: none;">FOOD</a>
+            <a href="www.google.com" style="font-weight: bold; color: #ffffff;  padding: 10px 10px 10px 10px ; text-decoration: none;">ABOUT</a> </div>
+            </nav></header>
+            <h1>Top 5 Favourite Foods</h1>
+            <ul>
+                <li style="font-weight: bold;"> <a href="#biryani"; style="color: red; text-decoration: none;" >Biryani</a></li>
+                <li  style="font-weight: bold;"><a href="#cake"; style="color: red; text-decoration: none;">Cake</a></li>
+                <li  style="font-weight: bold;"><a href="#pizza"; style="color: red; text-decoration: none;">Pizza</a></li>
+                <li  style="font-weight: bold;"><a href="#tikka"; style="color: red; text-decoration: none;">Tikka</a></li>
+                <li  style="font-weight: bold;"><a href="#wings"; style="color: red; text-decoration: none;">wings</a></li>
+            </ul>
+            <center>
+        
+            <figure>
+        <img id="biryani" height="500" width="400" src="https://carameltintedlife.com/wp-content/uploads/2021/07/Chicken-Dum-Biryani-1-5.jpg" alt="Biryani"><br/>
+        <figcaption>Biryani</figcaption>
+
+        <img id="cake" height="500" width="400" src="https://livforcake.com/wp-content/uploads/2017/07/black-forest-cake-7.jpg" alt="Cake"><br/>
+        <figcaption>Cake</figcaption>
+
+        <img id="pizza" height="500" width="400" src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2021%2F06%2F15%2Fmozzarella-pizza-margherita-FT-RECIPE0621.jpg" alt="Pizza"><br/>
+        <figcaption>Pizza</figcaption>
+
+        <img id="tikka" height="500" width="400" src="https://1.bp.blogspot.com/-OCGbyndg8ng/YCoohFtiTYI/AAAAAAAAUyo/TVXv1Ezh3YgqLXHzyU4XRvzPydm5sEkEQCLcBGAsYHQ/s907/Chicken_Tikka_Skewers_03.jpeg" alt="Tikka"><br/>
+        <figcaption>Tikka</figcaption>
+
+        <img id="wings" height="500" width="400" src="https://spicecravings.com/wp-content/uploads/2020/12/Tandoori-Chicken-Wings-featured-1.jpg" alt="Wings"><br/>
+        <figcaption>Wings</figcaption>
+        </figure>
+            </center>
+        
+
+        
+    
+            
+        </body>
+    
+</html>
